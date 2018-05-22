@@ -20,7 +20,7 @@
   "dependencies": {
     "ember-cli-babel": "^6.8.0",
     "ember-cli-htmlbars": "^2.0.1",
-    "ember-component-inbound-actions": "git+https://github.com/GavinJoyce/ember-component-inbound-actions.git",
+    "ember-component-inbound-actions": "git+https://github.com/GavinJoyce/ember-component-inbound-actions",
     "ember-element-resize-detector": "git+https://github.com/pkmh/ember-element-resize-detector#babel-deprications",
     "ember-lifeline": "^2.0.0"
   },
